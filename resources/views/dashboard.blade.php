@@ -86,13 +86,6 @@
                                 </div>
                                 <img id="photoPreview" src="" class="w-full h-full object-cover hidden" alt="Preview">
                             @endif
-
-                            <div class="absolute inset-0 bg-black/40 backdrop-blur-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col items-center justify-center">
-                                <div class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-white/20 flex items-center justify-center mb-2 backdrop-blur-md border border-white/30">
-                                    <svg class="w-5 h-5 md:w-6 md:h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                </div>
-                                <span class="text-white font-medium text-xs md:text-sm tracking-wide">Update Photo</span>
-                            </div>
                         </div>
 
                         <div class="hidden sm:block absolute -bottom-4 -left-4 md:-bottom-6 md:-left-6 bg-gray-900/80 backdrop-blur-xl border border-white/10 p-3 md:p-4 rounded-2xl shadow-xl transform group-hover:translate-y-2 transition duration-500">
