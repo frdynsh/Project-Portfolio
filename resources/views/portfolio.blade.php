@@ -68,7 +68,7 @@
                     <div class="p-8 flex flex-col flex-1">
                         <div class="flex justify-between items-start mb-4">
                             <h3 class="text-2xl font-bold text-white group-hover:text-emerald-400 transition">Personal Portfolio</h3>
-                            <a href="#" class="p-2 rounded-full bg-white/5 hover:bg-white/20 text-gray-400 hover:text-white transition">
+                            <a href="https://github.com/frdynsh/Project-Portfolio.git" class="p-2 rounded-full bg-white/5 hover:bg-white/20 text-gray-400 hover:text-white transition">
                                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                             </a>
                         </div>

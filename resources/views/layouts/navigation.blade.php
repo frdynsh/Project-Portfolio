@@ -41,7 +41,7 @@
             </div>
 
             <div class="hidden sm:flex sm:items-center sm:ms-6">
-                <a href="https://www.linkedin.com/in/ferdi-yansah/" class="mr-4 px-5 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold uppercase tracking-wider rounded-full shadow-lg shadow-emerald-500/20 transition-all transform hover:scale-105 hidden md:block">
+                <a href="https://www.linkedin.com/in/ferdi-yansah/" target="_blank" class="mr-4 px-5 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold uppercase tracking-wider rounded-full shadow-lg shadow-emerald-500/20 transition-all transform hover:scale-105 hidden md:block">
                     Hire Me
                 </a>
 

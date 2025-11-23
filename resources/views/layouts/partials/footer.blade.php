@@ -7,7 +7,7 @@
         </p>
 
         <!-- SOCIAL ICONS -->
-        <div class="flex justify-center space-x-6 mb-8">
+        <div class="flex justify-center space-x-6">
             <a href="https://www.facebook.com/ferdi.yansah.180072/" target="_blank" class="text-gray-500 hover:text-white">
                 <!-- Facebook -->
                 <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
